@@ -4,7 +4,7 @@ Please feel free to help yourself to any of them.
 If you have questions regarding installation of said tools, please let me know and i'll share whatever I know!
 
 Standard tools:
-1. Metasploit
+1. Metasploit &NBSP
 2 – Nmap
 3 – OpenSSH
 4 – Wireshark
