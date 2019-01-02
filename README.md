@@ -20,4 +20,4 @@ Vulnerability assesment sites:
 https://www.exploit-db.com/google-hacking-database
 https://www.exploit-db.com/
 
-
+Install XAMPP
