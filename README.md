@@ -75,7 +75,7 @@ which one will your pentest BE? security exceptions like:
 IPS 
   Intrusion Prevention System
 WAF
-  Web application firewall
+  Web application firewall <b/r>
 <p> Network Access Control
 Certificate Pinning
 Company Policies <p> 
