@@ -76,9 +76,9 @@ IPS
   Intrusion Prevention System
 WAF
   Web application firewall
-Network Access Control
+<p> Network Access Control
 Certificate Pinning
-Company Policies
+Company Policies <p> 
   
 
 
