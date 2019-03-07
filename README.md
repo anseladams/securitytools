@@ -80,5 +80,12 @@ WAF
 Certificate Pinning
 Company Policies <p> 
   
+  <p> Risk Tolerance is important to consider <p>
+  Tolerance to impact
+  |In Scope vs | Out of scope
+  --------------
+  
+ 
+  
 
 
