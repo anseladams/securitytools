@@ -68,7 +68,8 @@ Tiers Of Adversaries
 ____
 VI nation states investing tons of money all the things etc!! maxed out. 
 
-WhiteList vs BlackList? 
+
+
 ---
 which one will your pentest BE? security exceptions like:
 
